@@ -1,9 +1,9 @@
-![utmd](https://raw.githubusercontent.com/tappunk/.github/refs/heads/main/assets/utmd.webp)
+![utmd](https://raw.githubusercontent.com/richalaleman/.github/refs/heads/main/assets/utmd.webp)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Crates.io Version](https://img.shields.io/crates/v/utmd?color=orange&cacheSeconds=3600)](https://crates.io/crates/utmd)
-[![GitHub Release](https://img.shields.io/github/v/release/tappunk/utmd?color=blue)](https://github.com/tappunk/utmd/releases)
-[![X Follow](https://img.shields.io/twitter/follow/tappunk?style=social)](https://x.com/tappunk)
+[![GitHub Release](https://img.shields.io/github/v/release/richalaleman/utmd?color=blue)](https://github.com/richalaleman/utmd/releases)
+[![X Follow](https://img.shields.io/twitter/follow/richalaleman?style=social)](https://x.com/richalaleman)
 
 # utmd
 
@@ -27,7 +27,7 @@
 ### Homebrew
 
 ```bash
-brew install tappunk/utmd/utmd
+brew install richalaleman/utmd/utmd
 ```
 
 ### Cargo
@@ -39,7 +39,7 @@ cargo install utmd
 ### Build from source
 
 ```bash
-git clone https://github.com/tappunk/utmd.git
+git clone https://github.com/richalaleman/utmd.git
 cd utmd
 cargo build --release
 sudo cp target/release/utmd /usr/local/bin/utmd

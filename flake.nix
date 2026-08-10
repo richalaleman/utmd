@@ -24,7 +24,7 @@
 
         meta = with pkgs.lib; {
           description = "Minimalist developer sandbox and disposable VM manager for UTM on macOS.";
-          homepage = "https://github.com/tappunk/utmd";
+          homepage = "https://github.com/richalaleman/utmd";
           license = licenses.mit;
           maintainers = [ ];
           platforms = [ "aarch64-darwin" ];
