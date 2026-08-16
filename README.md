@@ -27,7 +27,8 @@
 ### Homebrew
 
 ```bash
-brew install tappunk/utmd/utmd
+brew tap tappunk/tap            # or: cargo install utmd
+brew install tappunk/tap/utmd
 ```
 
 ### Cargo
