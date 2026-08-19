@@ -5,7 +5,7 @@
 [![GitHub Release](https://img.shields.io/github/v/release/tappunk/utmd?color=blue)](https://github.com/tappunk/utmd/releases)
 [![X Follow](https://img.shields.io/twitter/follow/tappunk?style=social)](https://x.com/tappunk)
 
-# utmd
+# utmd (experimental)
 
 **Disposable VM sandbox manager for UTM on macOS.** Create, run, and prune isolated development environments.
 
